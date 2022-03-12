@@ -1,0 +1,17 @@
+{
+  "name": "Templates plugin",
+  "description": "Custom templates plugin",
+  "version": "1.0.0",
+  "author": "Prasurjya Pran Borah",
+  "repository": "https://github.com/ppborah/monokle-templates-plugin",
+  "monoklePlugin": {
+    "id": "com.github.ppborah.plugin.templates",
+    "helpUrl": "https://github.com/ppborah/monokle-templates-plugin",
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
+  }
+}
